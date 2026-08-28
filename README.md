@@ -1,7 +1,13 @@
 # English.nanorc
 
 
-This Just a simple attempt at adding syntax highlighting for English to the nano editor. It covers the following classes
+This Just a simple attempt at adding syntax highlighting for English to the nano editor. 
+This was motivated out of my love for writing and language and frustration that syntax highlighting for English
+is almost never supported in any editor of any kind. The idea is that the highlighting will help make the logic
+and relationships and similar thing of what you are writing easier to analyze and work with when you are writing
+a story, poem, or whatever type of English document you happen to be writing. This syntax highlighter 
+covers the following classes.
+
 
 # Logical words.
 
