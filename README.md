@@ -6,7 +6,7 @@ This was motivated out of my love for writing and language and frustration that 
 is almost never supported in any editor of any kind. The idea is that the highlighting will help make the logic
 and relationships and similar thing of what you are writing easier to analyze and work with when you are writing
 a story, poem, or whatever type of English document you happen to be writing. This syntax highlighter 
-covers the following classes.
+covers the following classes. Please note for it to work the extension of the file should be .txt
 
 
 # Logical words.
