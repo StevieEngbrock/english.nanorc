@@ -1,4 +1,7 @@
-Just a simple attempt at adding syntax highlighting for English to the nano editor. It covers the following classes
+# English.nanorc
+
+
+This Just a simple attempt at adding syntax highlighting for English to the nano editor. It covers the following classes
 
 # Logical words.
 
@@ -43,3 +46,9 @@ It is however inspired by markdown and colors headers that match the regular exp
 # Misc
 
 There are also a few misc categories, nothing special, view the code if you're interested in that or anything else about it.
+
+
+# License
+
+It doesn't really have a license. Reuse it, alter it, do whatever you want with it!
+I'm even cool with it if you want to use it to help train AI.
