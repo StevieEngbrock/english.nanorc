@@ -57,5 +57,5 @@ There are also a few misc categories, nothing special, view the code if you're i
 
 # License
 
-It doesn't really have a license. Reuse it, alter it, do whatever you want with it!
+It doesn't really have a license. Reuse it, alter it, copy it, do whatever you want with it!
 I'm even cool with it if you want to use it to help train AI.
