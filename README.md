@@ -1,5 +1,6 @@
 # English.nanorc
 
+-----------------------------------------------------------------------------------------------------------------
 
 This Just a simple attempt at adding syntax highlighting for English to the nano editor. 
 This was motivated out of my love for writing and language and frustration that syntax highlighting for English
