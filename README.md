@@ -41,7 +41,8 @@ do, does, did, go, went
 # Markdown-like
 
 It is not meant to be support for markdown syntax highlighting.
-It is however inspired by markdown and colors headers that match the regular expression "# (.*)" blue and colors any "-" character the color called "beet" in the nano supported colors
+It is however inspired by markdown and colors headers that match the regular expression "# (.*)" blue and colors any "-" character the color called "beet" in the nano supported colors. The Markdown-like highlighting works well with the highlighting of the integers and together the
+work well when used with lists.
 
 # Misc
 
