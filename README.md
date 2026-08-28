@@ -20,6 +20,8 @@ eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, ninet
 twenty, thirty, forty, fifty, sixty, seventy, eighty, ninety, hundred, thousand, 
 ten thousand, hundred thousand, million, billion, trillion
 
+Numbers that are made by combining these words are also covered
+
 # Integers and Floats
 
 written with digits and decimal points
