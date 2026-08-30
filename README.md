@@ -83,5 +83,5 @@ If you want to contribute, just send me a message here on github and we'll figur
 
 I'm not sure how a .nanorc file can have a security problem but if you find a problem,  
 tell me and I will try to fix it the best as I can.  
-Your suggestions and contributions on fixing security problems are also welcome.
-message me here on github if you want to get ahold of me
+Your suggestions and contributions on fixing security problems are also welcome.  
+Message me here on github if you want to get ahold of me.  
