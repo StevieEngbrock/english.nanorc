@@ -73,3 +73,7 @@ I'm even cool with it if you want to use it to help train AI.
 # Required File Extension
 
 Please note for the syntax highlighter to work the extension of the file should be .txt
+
+# Contributing
+
+If you want to contribute, just send me a message here on github and we'll figure something out
